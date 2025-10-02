@@ -15,7 +15,7 @@ int main(){
     printf("\n Notas digitadas: \n");
 
     for (i =0; i < 5; i++){
-        printf("%d", notas[i]); // imprime a nota da posição
+        printf("%d\n", notas[i]); // imprime a nota da posição
     }
     
     return 0;
